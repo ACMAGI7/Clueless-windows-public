@@ -4,7 +4,7 @@ Public **releases-only** repo. The source stays private.
 
 ## Download
 
-**[⬇ Clueless_0.1.13_x64-setup.exe](https://github.com/ACMAGI7/Clueless-windows-public/releases/download/v0.1.13/Clueless_0.1.13_x64-setup.exe)** — current build **v0.1.13**.
+**[⬇ Clueless_0.2.0_x64-setup.exe](https://github.com/ACMAGI7/Clueless-windows-public/releases/download/v0.2.0/Clueless_0.2.0_x64-setup.exe)** — current build **v0.2.0**.
 
 1. Download the installer above.
 2. Run it. It installs to your **user folder**, so there is no administrator prompt.
@@ -26,6 +26,6 @@ Public **releases-only** repo. The source stays private.
 ### Checksum
 
 ```
-SHA-256  6d52f7da8fdb4091d769ee9f1b5ea9e9eb73d98c6252827f21d93a68f68fe379
-         Clueless_0.1.13_x64-setup.exe
+SHA-256  9df8bea414c536c0f232137384168480f35942390d6e6c91b5fff8d6b9d65f66
+         Clueless_0.2.0_x64-setup.exe
 ```
