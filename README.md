@@ -4,7 +4,7 @@ Public **releases-only** repo. The source stays private.
 
 ## Download
 
-**[⬇ Clueless_0.2.2_x64-setup.exe](https://github.com/ACMAGI7/Clueless-windows-public/releases/download/v0.2.2/Clueless_0.2.2_x64-setup.exe)** — current build **v0.2.2** (Sidekick, dictation, Windows keyboard shortcuts — see [the release](https://github.com/ACMAGI7/Clueless-windows-public/releases/tag/v0.2.2)).
+**[⬇ Clueless_0.2.3_x64-setup.exe](https://github.com/ACMAGI7/Clueless-windows-public/releases/download/v0.2.3/Clueless_0.2.3_x64-setup.exe)** — current build **v0.2.3** (Claude Code and other AI CLIs now work on Windows — see [the release](https://github.com/ACMAGI7/Clueless-windows-public/releases/tag/v0.2.3)).
 
 1. Download the installer above.
 2. Run it. It installs to your **user folder**, so there is no administrator prompt.
@@ -26,6 +26,6 @@ Public **releases-only** repo. The source stays private.
 ### Checksum
 
 ```
-SHA-256  2beb8fc0ca786354913b6bab018528dbe3ab9353b3c338fa79d76771d46a081b
-         Clueless_0.2.2_x64-setup.exe
+SHA-256  340536a584d90d05b9cc68bf4a2bc2e5cbcfd3e8a24579c842868b71d2716a7f
+         Clueless_0.2.3_x64-setup.exe
 ```
