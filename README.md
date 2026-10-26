@@ -4,7 +4,7 @@ Public **releases-only** repo. The source stays private.
 
 ## Download
 
-**[⬇ Clueless_0.2.1_x64-setup.exe](https://github.com/ACMAGI7/Clueless-windows-public/releases/download/v0.2.1/Clueless_0.2.1_x64-setup.exe)** — current build **v0.2.1** (a hotfix: files open on a PC again, and Macquarie's iLearn files download).
+**[⬇ Clueless_0.2.2_x64-setup.exe](https://github.com/ACMAGI7/Clueless-windows-public/releases/download/v0.2.2/Clueless_0.2.2_x64-setup.exe)** — current build **v0.2.2** (Sidekick, dictation, Windows keyboard shortcuts — see [the release](https://github.com/ACMAGI7/Clueless-windows-public/releases/tag/v0.2.2)).
 
 1. Download the installer above.
 2. Run it. It installs to your **user folder**, so there is no administrator prompt.
@@ -26,6 +26,6 @@ Public **releases-only** repo. The source stays private.
 ### Checksum
 
 ```
-SHA-256  d6ee82ff4d8602b004139b086dc672314451a41622c28bbbcc8b6c1c3ed6f505
-         Clueless_0.2.1_x64-setup.exe
+SHA-256  2beb8fc0ca786354913b6bab018528dbe3ab9353b3c338fa79d76771d46a081b
+         Clueless_0.2.2_x64-setup.exe
 ```
