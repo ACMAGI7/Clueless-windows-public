@@ -4,7 +4,7 @@ Public **releases-only** repo. The source stays private.
 
 ## Download
 
-**[⬇ Clueless_0.2.5_x64-setup.exe](https://github.com/ACMAGI7/Clueless-windows-public/releases/download/v0.2.5/Clueless_0.2.5_x64-setup.exe)** — current build **v0.2.5** (Word, PowerPoint and Excel open inside Clueless; a lighter start — see [the release](https://github.com/ACMAGI7/Clueless-windows-public/releases/tag/v0.2.5)).
+**[⬇ Clueless_0.2.6_x64-setup.exe](https://github.com/ACMAGI7/Clueless-windows-public/releases/download/v0.2.6/Clueless_0.2.6_x64-setup.exe)** — current build **v0.2.6** (Circle to ask always sees your picture — see [the release](https://github.com/ACMAGI7/Clueless-windows-public/releases/tag/v0.2.6)).
 
 1. Download the installer above.
 2. Run it. It installs to your **user folder**, so there is no administrator prompt.
@@ -26,6 +26,6 @@ Public **releases-only** repo. The source stays private.
 ### Checksum
 
 ```
-SHA-256  128b6d022d46f1464ea81a6b579804164ca675adce7392e015d3cd8b76bb8c18
-         Clueless_0.2.5_x64-setup.exe
+SHA-256  fcdd075d331adb721bf73fc48aa4b79db4d6c0a870220eaede885f009ba942b2
+         Clueless_0.2.6_x64-setup.exe
 ```
